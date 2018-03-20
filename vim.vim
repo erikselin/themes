@@ -3,6 +3,7 @@ let g:colors_name = 'vim'
 let s:BLACK = '232'
 let s:GRAY  = '250'
 let s:RED   = '196'
+let s:GREEN = '34'
 let s:WHITE = '231'
 
 exe 'hi Boolean        ctermbg='.s:WHITE.' ctermfg='.s:BLACK.' cterm=none'
